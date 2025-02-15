@@ -5,18 +5,18 @@
 The Canteen Ordering System (COS) is an online platform designed to streamline the process of ordering food from the college canteen. It allows students and faculty to preorder meals, choose pick-up times, and make payments (online or cash). The system aims to reduce wait times, minimize food wastage, and improve the overall dining experience on campus.
 
 ### Problem Statement Identified in the Current System
-	Uttaranchal University has a large number of students and faculty spread across multiple buildings.
-	The canteen serves all students and faculty mostly between 12 PM – 1 PM, causing an enormous rush to get food.
+1.	Uttaranchal University has a large number of students and faculty spread across multiple buildings.
+2.	The canteen serves all students and faculty mostly between 12 PM – 1 PM, causing an enormous rush to get food.
 -	5-10 minutes wasted in queue for ordering food and payment
 -	10-15 minutes wasted in waiting for food to be prepared and finding seats
 -	10-15 minutes spent in eating
 -	10 minutes spent in reaching and coming back from the canteen
 -	It took around 50 minutes for student or faculty to go and come back from lunch
-	The students and faculty have to wait for long until the food is prepared.
-	Limited seating in the canteen results in delays, affecting the time available for students and faculty.
-	Students and faculty complain that they do not get the food they want due to shortages.
-	Food wastage is noted due to over-ordering and inventory shortages.
-	High operational costs are recorded due to inefficiencies in the current system.
+3. The students and faculty have to wait for long until the food is prepared.
+4. Limited seating in the canteen results in delays, affecting the time available for students and faculty.
+5. Students and faculty complain that they do not get the food they want due to shortages.
+6. Food wastage is noted due to over-ordering and inventory shortages.
+7. High operational costs are recorded due to inefficiencies in the current system.
 
 ### Fishbone Diagram (Ishikawa Diagram)
 ![Image](https://github.com/user-attachments/assets/37eebc7c-c1de-4518-af82-d38c8fc1c958)
